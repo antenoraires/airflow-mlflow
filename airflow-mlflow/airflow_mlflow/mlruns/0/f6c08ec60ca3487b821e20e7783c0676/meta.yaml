@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f6c08ec60ca3487b821e20e7783c0676/artifacts
+end_time: 1739556256437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6c08ec60ca3487b821e20e7783c0676
+run_name: rebellious-hog-528
+run_uuid: f6c08ec60ca3487b821e20e7783c0676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739556251872
+status: 4
+tags: []
+user_id: antenor
